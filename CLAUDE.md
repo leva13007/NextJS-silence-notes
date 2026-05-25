@@ -1,6 +1,6 @@
 # next_silence_note — Knowledge Base for Learning Next.js
 
-This is a **personal learning repository** for Next.js 15/16. Same system as
+This is a **personal learning repository** for Next.js 16. Same system as
 `postgres_silence_note` — structured notes, exercises, and practical sub-projects
 combined into a single knowledge base, streamed live on YouTube.
 

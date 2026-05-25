@@ -4,7 +4,7 @@
 > **Roadmap:** Phase 1 → Project Setup + App Router Basics + File-based Routing
 > **Stream:** ⬜ Not streamed / ✅ Streamed ([YouTube link])
 
-Встановлюємо перший Next.js 15 проект через `create-next-app`, досліджуємо структуру, розбираємось що і навіщо в `app/` директорії — `page.tsx`, `layout.tsx`, спеціальні файли.
+Встановлюємо перший Next.js 16 проект через `create-next-app`, досліджуємо структуру, розбираємось що і навіщо в `app/` директорії — `page.tsx`, `layout.tsx`, спеціальні файли.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## Key Concepts
 
-- **App Router** — файлова система маршрутизації Next.js 15, директорія `app/`
+- **App Router** — файлова система маршрутизації Next.js 16, директорія `app/`
 - **Server Component** — за замовчуванням кожен компонент в `app/` — серверний (рендериться на сервері, 0 JS на клієнт)
 - **`page.tsx`** — робить папку публічним URL-маршрутом
 - **`layout.tsx`** — обгортка що не перемальовується при навігації між дочірніми маршрутами

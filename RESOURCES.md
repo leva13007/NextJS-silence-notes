@@ -2,7 +2,7 @@
 
 ## Official Documentation
 
-- [Next.js 15 Docs](https://nextjs.org/docs)
+- [Next.js 16 Docs](https://nextjs.org/docs)
 - [Next.js Learn (official course)](https://nextjs.org/learn)
 - [React 19 Docs](https://react.dev/)
 - [Vercel Blog](https://vercel.com/blog)

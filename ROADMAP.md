@@ -1,6 +1,6 @@
 # Roadmap
 
-> Next.js 15 learning path — from zero to confident.
+> Next.js 16 learning path — from zero to confident.
 >
 > Based on:
 > - **Core:** [Next.js Official Docs](https://nextjs.org/docs)
@@ -17,7 +17,7 @@
 ---
 
 ## Phase 1: Getting Started
-- ⬜ Project setup — create-next-app, folder structure, tsconfig, eslint
+- ✅ Project setup — create-next-app, folder structure, tsconfig, eslint
 - ⬜ App Router basics — pages, layouts, nested routes
 - ⬜ File-based routing — page.tsx, layout.tsx, loading.tsx, error.tsx, not-found.tsx
 - ⬜ Navigation — Link, useRouter, redirect(), notFound()

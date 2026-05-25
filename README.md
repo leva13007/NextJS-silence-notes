@@ -1,9 +1,9 @@
 # Next.js Learning Log
 
-A personal learning journal for Next.js 15 (App Router). This project documents the entire journey of studying Next.js from fundamentals to production-ready apps — sessions, notes, examples, mistakes, and useful references.
+A personal learning journal for Next.js 16 (App Router). This project documents the entire journey of studying Next.js from fundamentals to production-ready apps — sessions, notes, examples, mistakes, and useful references.
 
 **Language:** English (Ukrainian for complex explanations)
-**Environment:** Node.js + Next.js 15, React 19
+**Environment:** Node.js + Next.js 16, React 19
 
 ## Project Structure
 
