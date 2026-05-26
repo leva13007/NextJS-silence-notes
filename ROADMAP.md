@@ -32,7 +32,7 @@
 
 ## Phase 3: Data Fetching
 - ⬜ fetch() in Server Components — async/await, no useEffect
-- ⬜ Static vs Dynamic rendering — generateStaticParams, dynamic = 'force-dynamic'
+- ⬜ Static vs Dynamic rendering — generateStaticParams, dynamic = 'force-dynamic', searchParams
 - ⬜ Caching & revalidation — revalidatePath, revalidateTag, next.revalidate
 - ⬜ Route Handlers — API routes in app/api/
 
