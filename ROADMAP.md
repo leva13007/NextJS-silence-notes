@@ -18,9 +18,11 @@
 
 ## Phase 1: Getting Started
 - ✅ Project setup — create-next-app, folder structure, tsconfig, eslint
-- ⬜ App Router basics — pages, layouts, nested routes
-- ⬜ File-based routing — page.tsx, layout.tsx, loading.tsx, error.tsx, not-found.tsx
-- ⬜ Navigation — Link, useRouter, redirect(), notFound()
+- 🔄 File-based routing — page.tsx, layout.tsx; folder = route, no config
+- ⬜ Navigation — Link, useRouter, notFound()
+- ⬜ Dynamic routes — [slug], route params, generateStaticParams
+- ⬜ Nested layouts + Route groups — per-section layout, (group) folders
+- ⬜ Special files in context — loading.tsx, error.tsx, not-found.tsx (з реальним async)
 
 ## Phase 2: React Foundations for Next.js
 - ⬜ Server Components vs Client Components — the mental model
@@ -47,8 +49,8 @@
 - ⬜ clsx / cn() utility — conditional classes
 
 ## Phase 6: Advanced Routing
-- ⬜ Dynamic routes — [slug], [...slug], [[...slug]]
-- ⬜ Route Groups — (group) folders, parallel routes, intercepting routes
+- ⬜ Parallel routes — @slot, одночасні лейаути
+- ⬜ Intercepting routes — (.) конвенція, modal pattern
 - ⬜ Middleware — matcher, redirects, auth guards
 
 ## Phase 7: Authentication
