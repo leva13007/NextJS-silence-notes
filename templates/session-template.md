@@ -48,15 +48,6 @@
 
 ---
 
-## Pomodoros
-
-| # | Duration | Focus |
-|---|----------|-------|
-| 1 | 25 min   |       |
-| 2 | 25 min   |       |
-
----
-
 ## Summary
 
 <!-- Key takeaways — what to remember -->

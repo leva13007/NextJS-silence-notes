@@ -171,16 +171,6 @@ export default function Loading() {
 
 ---
 
-## Pomodoros
-
-| # | Duration | Focus |
-|---|----------|-------|
-| 1 | 25 min   | Steps 1–3: create-next-app, structure, layout.tsx |
-| 2 | 25 min   | Steps 4–6: page.tsx, new route, special files |
-| 3 | 25 min   | Практичне завдання (exercises/) |
-
----
-
 ## Summary
 
 - [ ] `create-next-app` запущений і відкривається в браузері

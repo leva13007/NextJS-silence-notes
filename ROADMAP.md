@@ -19,20 +19,20 @@
 ## Phase 1: Getting Started
 - ✅ Project setup — create-next-app, folder structure, tsconfig, eslint
 - 🔄 File-based routing — page.tsx, layout.tsx; folder = route, no config
-- ⬜ Navigation — Link, useRouter, notFound()
-- ⬜ Dynamic routes — [slug], route params, generateStaticParams
-- ⬜ Nested layouts + Route groups — per-section layout, (group) folders
+- ✅ Dynamic routes — [slug], route params, generateStaticParams, notFound()
+- 🔄 Nested layouts + Route groups — per-section layout, (group) folders
+- 🔄 Navigation — Link, devIndicators
 - ⬜ Special files in context — loading.tsx, error.tsx, not-found.tsx (з реальним async)
 
 ## Phase 2: React Foundations for Next.js
 - ⬜ Server Components vs Client Components — the mental model
-- ⬜ "use client" directive — when and why
-- ⬜ Suspense & streaming — loading UI, React.Suspense
+- ⬜ "use client" directive — when and why; useRouter, useLinkStatus
+- ⬜ Suspense & streaming — loading UI, React.Suspense (builds on loading.tsx from Phase 1)
 - ⬜ useState, useEffect in the App Router context
 
 ## Phase 3: Data Fetching
 - ⬜ fetch() in Server Components — async/await, no useEffect
-- ⬜ Static vs Dynamic rendering — generateStaticParams, dynamic = 'force-dynamic', searchParams
+- ⬜ Static vs Dynamic rendering — generateStaticParams, dynamic = 'force-dynamic', searchParams, Native History API (pushState/replaceState)
 - ⬜ Caching & revalidation — revalidatePath, revalidateTag, next.revalidate
 - ⬜ Route Handlers — API routes in app/api/
 
@@ -69,6 +69,7 @@
 - ⬜ next/font — Google Fonts, local fonts, no layout shift
 - ⬜ Metadata API — title, description, OpenGraph
 - ⬜ Bundle analysis — @next/bundle-analyzer
+- ⬜ What can make transitions slow? — prefetch, Suspense boundaries, slow server components
 
 ## Phase 10: Deployment
 - ⬜ Vercel deployment — git integration, env vars, preview deploys
