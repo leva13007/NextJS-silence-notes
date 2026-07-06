@@ -37,7 +37,7 @@
 - ⬜ Route Handlers — API routes in app/api/
 
 ## Phase 4: Mutations & Forms
-- ⬜ Server Actions — "use server", form actions
+- ⬜ Server Actions — "use server", form actions, error handling in Server Actions (no error.tsx here — errors returned as data)
 - ⬜ useFormStatus, useActionState (React 19)
 - ⬜ Optimistic updates — useOptimistic
 - ⬜ Validation — zod + server actions
@@ -52,6 +52,7 @@
 - ⬜ Parallel routes — @slot, одночасні лейаути
 - ⬜ Intercepting routes — (.) конвенція, modal pattern
 - ⬜ Middleware — matcher, redirects, auth guards
+- ⬜ Advanced error handling — global-error.tsx (root layout errors), nested error boundaries, error.tsx does NOT catch errors from its own segment's layout.tsx
 
 ## Phase 7: Authentication
 - ⬜ NextAuth.js (Auth.js v5) — setup, providers, session

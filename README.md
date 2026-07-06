@@ -1,3 +1,9 @@
+---
+status: active
+category: learning
+stack: Next.js, TypeScript
+---
+
 # Next.js Learning Log
 
 A personal learning journal for Next.js 16 (App Router). This project documents the entire journey of studying Next.js from fundamentals to production-ready apps — sessions, notes, examples, mistakes, and useful references.
@@ -44,5 +50,9 @@ npm run dev
 | Date | Topic | Status |
 |------|-------|--------|
 | [2026-05-21](sessions/2026-05-21.md) | Project Setup & Documentation Foundation | ✅ |
+
+## Next Step
+
+Complete Exercise 01 (`exercises/ex-01-first-routes.md`) — build a 3-page App Router site.
 
 ## Follow the journey on YouTube
