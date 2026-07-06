@@ -8,6 +8,7 @@
 |------|-------|--------|---------|
 | 2026-05-21 | Project Setup & Documentation Foundation | ✅ Completed | [2026-05-21](sessions/2026-05-21.md) |
 | 2026-05-22 | Project Setup, ESLint/Prettier, Absolute Imports | ✅ Completed | [2026-05-22](sessions/2026-05-22.md) |
+| 2026-07-06 | Server Components vs Client Components — the Mental Model | ✅ Completed | [2026-07-06](sessions/2026-07-06.md) |
 
 ### Status Legend
 

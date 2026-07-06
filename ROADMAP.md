@@ -18,14 +18,14 @@
 
 ## Phase 1: Getting Started
 - ✅ Project setup — create-next-app, folder structure, tsconfig, eslint
-- 🔄 File-based routing — page.tsx, layout.tsx; folder = route, no config
+- ✅ File-based routing — page.tsx, layout.tsx; folder = route, no config → [session](sessions/2026-05-25.md)
 - ✅ Dynamic routes — [slug], route params, generateStaticParams, notFound()
-- 🔄 Nested layouts + Route groups — per-section layout, (group) folders
-- 🔄 Navigation — Link, devIndicators
-- ⬜ Special files in context — loading.tsx, error.tsx, not-found.tsx (з реальним async)
+- 🔄 Nested layouts + Route groups — nested layouts done ([session](sessions/2026-05-26.md)); route groups `(group)` folders still ⬜
+- 🔄 Navigation — Link done ([session](sessions/2026-05-27.md)); devIndicators still ⬜
+- ✅ Special files in context — loading.tsx, error.tsx, not-found.tsx (з реальним async) → [session](sessions/2026-06-25.md)
 
 ## Phase 2: React Foundations for Next.js
-- ⬜ Server Components vs Client Components — the mental model
+- ✅ Server Components vs Client Components — the mental model → [session](sessions/2026-07-06.md)
 - ⬜ "use client" directive — when and why; useRouter, useLinkStatus
 - ⬜ Suspense & streaming — loading UI, React.Suspense (builds on loading.tsx from Phase 1)
 - ⬜ useState, useEffect in the App Router context
